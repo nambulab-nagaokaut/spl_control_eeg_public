@@ -1,6 +1,6 @@
-# spl_control_eeg_public
+# Detecting changes of sound pressure level for automatic volume control using EEG 
 
-Code for sound pressure level control using EEG (Kimura et al. 2023)
+Code for Kimura et al. 2023
 
 ## Reference
 
