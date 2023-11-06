@@ -8,11 +8,17 @@ An auditory brain-computer interface to detect changes in sound pressure level f
 
 Kimura et al. 2023
 
+## Data
+
 ## Analysis
 
 - Prepare the data in /data/
 - Run main.py
 
+## Requirement
+
+See and use requirement.txt for required packages/tools
+
+
 ## NOTE
 The code is used for the analysis after preprocessing.
-
