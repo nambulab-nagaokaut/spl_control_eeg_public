@@ -45,7 +45,8 @@ Preprocessed data are available from the following form.
 
 ## Requirement
 
-See and use requirement.txt for required packages/tools
+- Python 3.X 
+- other packages/tools [(requirement.txt)](./analysis/requirements.txt)
 
 ## NOTE
 
